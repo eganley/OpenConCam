@@ -148,3 +148,12 @@ email:  jrjg1@cam.ac.uk
 twitter:  @rupertgatti  
 GitHub:  rupertgatti  
 
+Name: Emma
+Surname: Ganley 
+Short profile: Lead for PLOS Data Program, Joint Chief Editor PLOS Biology 
+Open tags: Open Accessm Open Data, Open Science, Open Research, Open Science 
+www: https://www.plos.org/ 
+email: eganley@plos.org 
+twitter: @GanleyEmma
+GitHub: eganley 
+linkedin: https://www.linkedin.com/in/eganley/
